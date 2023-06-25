@@ -1,0 +1,67 @@
+html{
+    background-color: rgb(208, 152, 78);
+}
+.form-c{
+    display:flex ; 
+    list-style: none ;
+}
+.logo-a{
+    height: 50px;
+    margin-left: 680px ;
+}
+.icon{
+    list-style: none ;
+    margin-left: -15px ;
+}
+.icon-a{
+    float: left;
+    text-decoration: none;
+}
+.icon-b{
+    text-decoration: none;
+    margin-left: 30px ;
+}
+.iput-a{
+    width: 1200px;
+    margin-left: 20px;
+}
+.phanthanaa{
+    margin-top: 67px;
+    list-style: none;
+}
+.phanthan-a{
+    list-style: none ;
+}
+.phanthan-b{
+    list-style: none ;
+}
+.phanthan-c{
+    list-style: none ;
+}
+.phanthan-d{
+    list-style: none ;
+}
+.phanthan-e{
+    list-style: none ;
+}
+.lienhe{
+   list-style: none ; 
+}
+.lha{
+    color: black ; 
+    margin-bottom: 3px ;
+}
+.lhb{
+    color:black ; 
+    text-decoration: none ;
+}
+.cicon{
+    text-decoration: none;
+}
+.ctxh{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+    background: border-box;
+    border: 9px;
+}
